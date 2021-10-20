@@ -1,0 +1,43 @@
+@font-face {
+  font-family: Barlow Semi Condensed;
+  src: url("../fonts/Barlow/BarlowSemiCondensed-Light.ttf");
+  src: url("../fonts/Barlow/BarlowSemiCondensed-Regular.ttf");
+  src: url("../fonts/Barlow/BarlowSemiCondensed-Medium.ttf");
+  src: url("../fonts/Barlow/BarlowSemiCondensed-SemiBold.ttf");
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+label {
+  font-family: "Barlow Semi Condensed";
+}
+label {
+  font-size: 1rem;
+}
+h4 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.75rem;
+}
+p {
+  line-height: 1.25rem;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.text-white {
+  color: var(--white);
+}
+.text-white-500 {
+  color: var(--white-500);
+}
+.text-secondary {
+  color: var(--secondary-color);
+}
+.text-secondary-500 {
+  color: var(--secondary-500);
+}
