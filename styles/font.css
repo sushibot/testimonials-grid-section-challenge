@@ -30,12 +30,14 @@ p {
 }
 
 .text-white {
+  margin-bottom: 1.5rem;
   color: var(--white);
 }
 .text-white-500 {
   color: var(--white-500);
 }
 .text-secondary {
+  margin-bottom: 1.5rem;
   color: var(--secondary-color);
 }
 .text-secondary-500 {

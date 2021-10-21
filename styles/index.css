@@ -142,6 +142,7 @@ table {
 body {
   background-color: #f3f7ff;
   font-size: 13px;
+  min-height: 100vh;
 }
 
 .wrapper {
@@ -223,4 +224,5 @@ body {
 }
 .image-container {
   width: 40px;
+  margin-right: 1.5rem;
 }
